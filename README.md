@@ -105,6 +105,10 @@ Options:
 4. Exit the Program
 ```
 
+## SVG Output
+
+![Screenshot 2024-12-12 135947](https://github.com/user-attachments/assets/5bb30fc3-3467-465e-8df0-5c9dc15ce4a6)
+
 ## Key Functions
 
 - `genetic_algorithm()`: Core implementation of the genetic algorithm.
@@ -124,4 +128,4 @@ Future improvements could include:
 
 ## Licence
 
-This program is open-source and can be freely used and modified for educational and research purposes.
+This program is open-source and can be freely used and modified for educational purposes.
