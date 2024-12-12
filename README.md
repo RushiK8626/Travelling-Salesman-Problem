@@ -107,7 +107,8 @@ Options:
 
 ## SVG Output
 
-![Screenshot 2024-12-12 135947](https://github.com/user-attachments/assets/5bb30fc3-3467-465e-8df0-5c9dc15ce4a6)
+![Screenshot 2024-12-12 140527](https://github.com/user-attachments/assets/7a45f765-3cb4-4765-b130-3d5ac26019b4)
+
 
 ## Key Functions
 
